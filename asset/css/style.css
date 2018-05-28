@@ -1,0 +1,97 @@
+body, html{
+    height: 100%;
+}
+
+#main {
+    min-height: 100%;
+}
+
+.separator{
+    height: 40%;
+    max-height: 140px;
+}
+
+.myImg {
+    height: 250px;
+}
+
+.postimg {
+    width: 250px;
+    max-height: 350px;
+    margin-top: 20px;
+}
+
+.themarginpost{
+    margin-top: 5px;
+    height: 15px;
+}
+
+.formimg {
+    width: 150px;
+}
+
+.themargin{
+    margin-bottom: 5px;
+}
+
+.myheigth {
+    height: 100%;
+}
+
+/* LOGIN */
+.logueo {/* PARALLAX */
+    height: 650px!important;
+}
+i.iconis {
+    font-size: 1em!important;
+    margin-top: 8px;
+}
+.login {
+    margin: 0 auto;
+    background-color: rgba(255,255,255,.7);
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bg-card-user {
+	background: rgba(0,77,64,.5);
+	padding: 15px 0;
+}
+.truncate >img {
+	width: 180px;
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+
+.bottom {
+    margin-top: auto;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.heartalign{
+    position: absolute;
+    right: 15;
+    width: 10%;
+    font-weight: bold;
+}
+
+.titlealign{
+    width: 85%;
+}
+      
+.statusform{
+    color: red;
+    font-weight: bold;
+}
+
+.navtext{
+    display: none;
+}
+
+.mail{
+    max-height: 64px;
+    overflow: hidden;
+}
